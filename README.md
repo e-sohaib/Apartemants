@@ -4,4 +4,3 @@ I collect apartment listings from Divar's API (a popular Iranian classified ads 
 
 💻 Built with Python, Pandas, Scikit-learn, and Folium.
 
-Check it out on GitHub: [your link here
